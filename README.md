@@ -42,4 +42,4 @@
 ## 📫 Как со мной связаться
 - [LinkedIn](https://www.linkedin.com/in/elina-galimova-ba699532a/)
 - [Telegram](https://t.me/elina_glmv)
-- Email: [elina3galimova@gmail.com]
+- [Email](elina3galimova@gmail.com)
