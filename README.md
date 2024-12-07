@@ -22,7 +22,8 @@ I’m a budding Data Scientist passionate about studying machine learning and de
 Here are some of my educational projects:
 
 - **[Project 1: Titanic](https://github.com/Elina117/Titanic/tree/main)**  
-- **[Project 2: Taxi Data Analysis](https://github.com/Elina117/Trip-Pricing-with-Taxi-Mobility-Analytics)**  
+- **[Project 2: Taxi Data Analysis](https://github.com/Elina117/Trip-Pricing-with-Taxi-Mobility-Analytics)**
+- **[Project 3: Recomended System](https://github.com/Elina117/RecomededSystem)**
 - **[Mathematics Repositories](https://github.com/Elina117?tab=repositories)**  (click the link to view)
 
 ## 🏆 Kaggle Competitions
