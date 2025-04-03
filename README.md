@@ -21,7 +21,7 @@ I’m a budding Data Scientist passionate about studying machine learning and de
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 
 ## 📂 Projects
-Here are some of my educational projects:
+Here are some of my projects:
 
 - **[Project 1: Titanic](https://github.com/Elina117/Titanic/tree/main)**  
 - **[Project 2: Taxi Data Analysis](https://github.com/Elina117/Trip-Pricing-with-Taxi-Mobility-Analytics)**
