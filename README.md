@@ -26,6 +26,7 @@ Here are some of my educational projects:
 - **[Project 3: Recomended System](https://github.com/Elina117/RecomededSystem)**
 - **[Project 4: Car Insurance Claim Prediction](https://github.com/Elina117/Car-Insurance-Claim-Prediction)**
 - **[Project 5: House prices regression](https://github.com/Elina117/House-prices-regression)**
+- **[Project 6: UNet Neural Network OxfordIIITPet](https://github.com/Elina117/UNet-Neural-Network-OxfordIIITPet-Dataset)**
 - **[Mathematics Repositories](https://github.com/Elina117?tab=repositories)**  (click the link to view)
 
 ## 🏆 Kaggle Competitions
