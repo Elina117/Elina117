@@ -34,7 +34,8 @@ Here are some projects I have worked on:
 - **[ML Project 5: House Prices Regression](https://github.com/Elina117/House-prices-regression)**
 - **[CV Project 6: UNet Neural Network for OxfordIIITPet](https://github.com/Elina117/UNet-Neural-Network-OxfordIIITPet-Dataset)**
 - **[ML Project 7: Customer Personality Analysis](https://github.com/Elina117/Customer-Personality-Analysis)**
-- **[CV Project 8: Pneumonia-detection](https://github.com/Elina117/Pneumonia-detection--CV-/tree/main)**
+- **[CV Project 8: Pneumonia detection](https://github.com/Elina117/Pneumonia-detection--CV-/tree/main)**
+- **[NLP Project 9: Predict signal shifts](https://github.com/Elina117/Predict-signal-shifts)**
 - **[Mathematics Repositories](https://github.com/Elina117?tab=repositories)**
 
 ## 🏆 Kaggle Competitions
