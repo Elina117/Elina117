@@ -1,6 +1,6 @@
 # 👋 Hello! I’m Elina
 
-I work as an ML engineer, developing end-to-end solutions: from data collection and preprocessing to training, validation, and deployment of models. I handle data cleaning, feature generation, and annotation, process time series, apply clustering and ensemble methods (bagging, boosting, stacking). I conduct A/B and A/A testing and use mathematical statistics methods to validate model correctness. I also apply NLP techniques for text analysis: from basic tokenization to working with transformers. In my projects, I actively use PyTorch Lightning, convolutional and recurrent neural networks. I ensure reproducibility and scalability of solutions and work with APIs.
+I work as an ML engineer, developing end-to-end solutions: from data collection and preprocessing to training, validation, and deployment of models. I handle data cleaning, feature generation, and annotation, process time series, apply clustering and ensemble methods (bagging, boosting, stacking). I conduct A/B and A/A testing and use mathematical statistics methods to validate model correctness. I apply NLP techniques for text analysis — from basic tokenization to working with transformers, including developing and fine-tuning LLMs (Large Language Models). In my projects, I actively use PyTorch Lightning, convolutional and recurrent neural networks. I ensure reproducibility and scalability of solutions and work with APIs.
 
 ## 🔹 About Me
 
@@ -36,6 +36,7 @@ Here are some projects I have worked on:
 - **[ML Project 7: Customer Personality Analysis](https://github.com/Elina117/Customer-Personality-Analysis)**
 - **[CV Project 8: Pneumonia detection](https://github.com/Elina117/Pneumonia-detection--CV-/tree/main)**
 - **[NLP Project 9: Predict signal shifts](https://github.com/Elina117/Predict-signal-shifts)**
+- **[NLP/LLM Project 10: GPT-2 Direct Preference Optimization](https://github.com/Elina117/Direct-Preference-Optimization-gpt2)**
 - **[Mathematics Repositories](https://github.com/Elina117?tab=repositories)**
 
 ## 🏆 Kaggle Competitions
